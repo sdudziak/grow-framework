@@ -3,7 +3,7 @@
 **Context:** Built while scaling an engineering department from 4 to 70+ engineers. Used in production across multiple teams for several years.
 **Format:** Excel workbook (`GROW_Framework_v2_EN.xlsx`)
 **License:** Creative Commons Attribution 4.0 (CC BY 4.0) — free to use, share, and adapt with attribution.
-**Status:** Available for reuse. No corporate IP claim — never signed over.
+**Status:** Available for reuse.
 
 ---
 
