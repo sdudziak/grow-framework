@@ -199,6 +199,13 @@ Both outcomes require action, not just averaging.
 
 ---
 
+## Contributing
+
+Run it, break it, tell us what didn't fit. See [CONTRIBUTING.md](./CONTRIBUTING.md) — issues,
+PRs, and translations all welcome, under CC BY 4.0.
+
+---
+
 ## Availability & Attribution
 
 Free to use under CC BY 4.0. Required credit line on any use or derivative:
