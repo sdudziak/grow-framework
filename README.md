@@ -2,7 +2,7 @@
 
 **Context:** Built while scaling an engineering department from 4 to 70+ engineers. Used in production across multiple teams for several years.
 
-**Format:** Excel workbook (`GROW_Framework_v2_EN.xlsx`)
+**Format:** Excel workbook (`GROW-evaluation-framework.xlsx`)
 
 **License:** Creative Commons Attribution 4.0 (CC BY 4.0) — free to use, share, and adapt with attribution.
 
@@ -215,4 +215,4 @@ Free to use under CC BY 4.0. Required credit line on any use or derivative:
 Canonical source: https://github.com/sdudziak/grow-framework
 
 License: [CC BY 4.0](./LICENSE) — `SPDX-License-Identifier: CC-BY-4.0`
-Workbook: [`GROW_Framework_v2_EN.xlsx`](./GROW_Framework_v2_EN.xlsx)
+Workbook: [`GROW-evaluation-framework.xlsx`](./GROW-evaluation-framework.xlsx)
