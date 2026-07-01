@@ -1,11 +1,5 @@
 # GROW Framework — Documentation
 
-**Authors:**
-
-- Szymon Dudziak
-- Katarzyna Lasoń
-- Adam Biegański
-
 **Context:** Built while scaling an engineering department from 4 to 70+ engineers. Used in production across multiple teams for several years.
 **Format:** Excel workbook (`GROW_Framework_v2_EN.xlsx`)
 **License:** Creative Commons Attribution 4.0 (CC BY 4.0) — free to use, share, and adapt with attribution.
@@ -191,6 +185,14 @@ Both outcomes require action, not just averaging.
 - Underperformance near zero — not because of enforcement, but because the framework makes
   growth gaps visible early enough to address them with IDPs before they become performance issues
 - Enabled scaling the engineering department while maintaining consistent standards
+
+---
+
+## Authors
+
+- Szymon Dudziak
+- Katarzyna Lasoń
+- Adam Biegański
 
 ---
 
